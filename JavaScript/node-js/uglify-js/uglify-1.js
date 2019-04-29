@@ -6,5 +6,3 @@ var result = UglifyJS.minify("file-1.js");
 
 //view the output
 console.log(result.code);
-
-
